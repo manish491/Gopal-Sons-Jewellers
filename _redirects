@@ -1,5 +1,0 @@
-# Netlify: keep helper files private
-/set-domain.sh /404.html 404
-/README-DEPLOY.md /404.html 404
-/SECURITY.md /404.html 404
-/index.html / 301
